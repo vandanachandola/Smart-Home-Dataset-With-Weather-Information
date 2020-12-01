@@ -11,5 +11,6 @@ Smart Home Dataset With Weather Information
 1. Link to original dataset: https://drive.google.com/file/d/195k1GGruW_fAYazFRb9qDxP7Ir5YZqVp/view?usp=sharing
 2. Test/Sample dataset is included in the repo named as sample_HomeC.csv.
 3. Deliverables folder is included in the repo, which contains the presentation slides and project report.
+4. The dataset has been downloaded from here: https://www.kaggle.com/taranvee/smart-home-dataset-with-weather-information
 
 
